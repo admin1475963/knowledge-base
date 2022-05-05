@@ -105,7 +105,7 @@ The most common values:
 }
 
 .none {
-    text-decoration: none
+    text-decoration: none;
 }
 ```
 
@@ -116,7 +116,7 @@ text-shadow: horizontal_offset vertical_offset size color
 ```
 ```css
 .shadow {
-    text-shadow: 1px 1px 1px #000000
+    text-shadow: 1px 1px 1px #000000;
 }
 ```
 
