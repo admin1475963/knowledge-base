@@ -86,7 +86,7 @@ Defines behaviour of a block when it's content overflow sizes of the block size.
     display: inline;
 }
 
-.inline-bloc {
+.inline-block {
     display: inline-block;
 }
 ```
